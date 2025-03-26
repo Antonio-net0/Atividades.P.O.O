@@ -64,6 +64,7 @@ public class Luta {
                         desafiado.ganharLuta();
                         desafiante.perderLuta();
                         break;
+                        
                     case 1://Desafiante ganha
                         System.out.println(" Desafiante " + desafiante.getNome());
                         desafiante.ganharLuta();
